@@ -28,11 +28,5 @@ This project investigates how artificial intelligence (AI) adoption affects comp
 - Financial data collection using a checkpoint system (500+ companies)
 - Visualizations that reveal AI-driven trends in profitability
 
-## 📌 Author
 
-**Verdiyev Jamal**  
-Bachelor’s Programme “Data Science and Business Analytics”  
-Higher School of Economics
-
----
 
