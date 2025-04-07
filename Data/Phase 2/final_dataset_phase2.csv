@@ -1,0 +1,579 @@
+Company Name,Sector,Profits in USD,AI Benefits,Ticker,Profit 2022,Profit 2024,Profit Change,Customer Focused
+Bristol-Myers Squibb Company, Healthcare,145991,"Drug discovery, diagnostics optimization",BMY,6327000000.0,8025000000.0,1698000000.0,False
+CNF Inc.,Transportation,404826,Fleet routing and demand forecasting optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+Coca-Cola Co.,Food and Beverage,668971,Demand forecasting and marketing optimization,COKE,430158000.0,408375000.0,-21783000.0,True
+Colgate-Palmolive Co.,Consumer Goods,693824,Marketing optimization and product development,CL,1785000000.0,2300000000.0,515000000.0,True
+Comcast Corp.,Telecommunications,303173,Customer analytics and network optimization,CMCSA,5370000000.0,15388000000.0,10018000000.0,True
+Comdisco Inc.,Technology,4877771,IT process automation and predictive analytics,A,1254000000.0,1240000000.0,-14000000.0,False
+Comerica Inc.,Banking,305649,Fraud detection and investment analytics,CMA,1151000000.0,881000000.0,-270000000.0,False
+Comfort Systems USA Inc.,Construction,206018,Project planning and scheduling optimization,FIX,245947000.0,323398000.0,77451000.0,False
+Commercial Metals Co.,Metals,657316,Predictive maintenance and demand forecasting,CMC,1217262000.0,859760000.0,-357502000.0,False
+Community Health Systems Inc.,Healthcare,920445,Patient flow optimization and diagnostics assistance,CYH,46000000.0,-133000000.0,-179000000.0,False
+Computer Associates International Inc.,Technology,3740787,Process automation and AI security,A,1254000000.0,1240000000.0,-14000000.0,False
+Concord EFS Inc.,Financial Services,906548,Fraud detection and transaction analytics,A,1254000000.0,1240000000.0,-14000000.0,False
+Conectiv Inc,Energy,201229,Grid diagnostics and predictive maintenance,A,1254000000.0,1240000000.0,-14000000.0,False
+Conoco Inc,Oil and Gas,585522,Exploration optimization and predictive equipment maintenance,A,1254000000.0,1240000000.0,-14000000.0,False
+Conseco Inc.,Insurance,322017,Claims automation and actuarial analytics,A,1254000000.0,1240000000.0,-14000000.0,False
+Consolidated Edison Inc.,Energy,803343,Infrastructure monitoring and demand forecasting,ED,1660000000.0,2519000000.0,859000000.0,False
+Constellation Brands Inc.,Consumer Goods  ,138494,Marketing optimization and demand forecasting,STZ,-40400000.0,-71000000.0,-30600000.0,True
+Corning Inc.,Manufacturing,219682,Predictive maintenance and process optimization,GLW,1316000000.0,581000000.0,-735000000.0,False
+Crane Co.,Manufacturing,940194,Predictive maintenance and quality control automation,CR,401100000.0,255900000.0,-145200000.0,False
+CSX Corp.,Transportation  ,734734,Fleet optimization and demand forecasting,CSX,4114000000.0,3668000000.0,-446000000.0,False
+Cummins Inc.,Manufacturing,185827,Predictive maintenance and design optimization,CMI,2151000000.0,735000000.0,-1416000000.0,False
+Cytec Industries Inc.,Chemicals,714505,Process optimization and predictive maintenance,ASTE,-100000.0,33500000.0,33600000.0,False
+D.R. Horton Inc.,Homebuilding,156232,Demand forecasting and process optimization,DHI,5857500000.0,4745700000.0,-1111800000.0,False
+Dana Corporation,Manufacturing,636706,Predictive maintenance and quality control automation,DAC,559210000.0,576299000.0,17089000.0,False
+Danaher Corporation,Manufacturing,341669,Predictive maintenance and process optimization  ,DHR,7209000000.0,4764000000.0,-2445000000.0,False
+Darden Restaurants Inc.,Restaurants,300424,Menu optimization and demand forecasting,DRI,952800000.0,981900000.0,29100000.0,False
+DaVita Inc.,Healthcare,733475,Patient care optimization and administration automation,DVA,560400000.0,691535000.0,131135000.0,False
+Deere & Company,Manufacturing,865542,Predictive maintenance and production optimization,DE,7131000000.0,10166000000.0,3035000000.0,False
+Del Monte Foods Co,Food Processing,702936,Demand forecasting and supply chain optimization,ARTW,97797.0,266969.0,169172.0,False
+Delta Air Lines Inc.,Transportation,495125,Pricing optimization and demand forecasting,DAL,1318000000.0,4609000000.0,3291000000.0,False
+Deluxe Corporation,Business Services,529941,Process automation and predictive analytics,DLX,65395000.0,26120000.0,-39275000.0,False
+Devon Energy Corporation,Oil and Gas,281984,Exploration optimization and predictive maintenance,DVN,6015000000.0,3747000000.0,-2268000000.0,False
+Diebold Incorporated,Manufacturing,890886,Predictive maintenance and process optimization,DBD,-581400000.0,,,False
+Dillard's Inc.,Retail,657323,Inventory optimization and demand forecasting,DDS,862473000.0,891637000.0,29164000.0,False
+DIMON Incorporated,Tobacco,574554,Demand forecasting and supply chain optimization,ABM,230400000.0,251300000.0,20900000.0,False
+Dollar General Corporation,Retail,545654,Inventory optimization and demand forecasting,DG,2399232000.0,2415989000.0,16757000.0,False
+Dollar Tree Stores Inc.,Retail,220659,Inventory optimization and personalized promotions,DLTR,1327900000.0,1615400000.0,287500000.0,False
+Domino's Pizza LLC,Restaurants,251643,Demand forecasting and supply chain optimization,DPZ,452263000.0,519118000.0,66855000.0,False
+Dover Corporation Inc.,Manufacturing,325217,Predictive maintenance and process optimization,DOV,1065376000.0,1056828000.0,-8548000.0,False
+Dow Chemical Company,Chemicals,265475,R&D acceleration and predictive maintenance ,ADM,4340000000.0,3483000000.0,-857000000.0,False
+DPL Inc.,Energy,649349,Grid optimization and predictive maintenance,A,1254000000.0,1240000000.0,-14000000.0,False
+DQE Inc.,Energy,376523,Infrastructure monitoring and demand forecasting,A,1254000000.0,1240000000.0,-14000000.0,False
+DTE Energy Co.,Energy,654298,Infrastructure monitoring and predictive maintenance,AE,3487000.0,212000.0,-3275000.0,False
+E.I. Du Pont de Nemours and Company,Chemicals,862416,R&D acceleration and predictive maintenance,ALTM,273500000.0,330100000.0,56600000.0,False
+Duke Energy Corp,Energy,983236,Grid optimization and predictive maintenance ,DUK,2550000000.0,2841000000.0,291000000.0,False
+DURA Automotive Systems Inc.,Manufacturing,705323,Predictive maintenance and design optimization,CAAS,21181000.0,37658000.0,16477000.0,False
+Dynegy Inc.,Energy,236418,Predictive maintenance and demand forecasting,A,1254000000.0,1240000000.0,-14000000.0,False
+E.W. Scripps Company,Media,782174,Content recommendation and ad targeting,SSP,195902000.0,-947784000.0,-1143686000.0,True
+Earthlink Inc.,Telecommunications  ,380126,Network optimization and customer analytics,A,1254000000.0,1240000000.0,-14000000.0,True
+Eastman Chemical Company,Chemicals,284455,R&D acceleration and predictive maintenance,EMN,793000000.0,894000000.0,101000000.0,False
+Eastman Kodak Company,Manufacturing,716652,Predictive maintenance and process optimization,KODK,26000000.0,75000000.0,49000000.0,False
+Eaton Corporation,Manufacturing,271049,Predictive maintenance and production optimization,ETN,2462000000.0,3218000000.0,756000000.0,False
+Echostar Communications Corporation,Telecommunications,862827,Customer analytics and network optimization,SBAC,461429000.0,501812000.0,40383000.0,True
+Ecolab Inc.,Manufacturing,216635,Predictive maintenance and quality control automation,ECL,1091700000.0,1372300000.0,280600000.0,False
+Edison International,Energy,160748,Infrastructure monitoring and predictive maintenance ,EIX,824000000.0,1407000000.0,583000000.0,False
+EGL Inc.,Transportation,240075,Fleet routing optimization and demand forecasting,A,1254000000.0,1240000000.0,-14000000.0,False
+El Paso Corporation,Oil and Gas,101643,Exploration optimization and predictive maintenance,AAME,1525000.0,,,False
+Electronic Arts Inc.,Technology,1573080,Product recommendation and demand forecasting,EA,789000000.0,802000000.0,13000000.0,True
+Eli Lilly and Company,Healthcare,506801,Drug discovery and precision medicine,LLY,6244800000.0,5240400000.0,-1004400000.0,False
+EMC Corporation,Technology,6717903,Data analytics and IT process automation  ,FMC,736500000.0,1321500000.0,585000000.0,False
+Emcor Group Inc.,Construction,371232,Project planning and optimization,EME,406122000.0,632994000.0,226872000.0,False
+Emerson Electric Co.,Manufacturing,330536,Predictive maintenance and process optimization,EMR,3231000000.0,13219000000.0,9988000000.0,False
+Encompass Services Corporation,Business Services,408628,Process automation and predictive analytics,AA,-123000000.0,-651000000.0,-528000000.0,False
+Energizer Holdings Inc.,Consumer Goods,972051,Demand forecasting and marketing optimization,ENR,-231500000.0,140500000.0,372000000.0,True
+Entergy Corporation,Energy,737582,Grid optimization and predictive maintenance,ETR,1097138000.0,2362310000.0,1265172000.0,False
+Enterprise Products Partners L.P.,Oil and Gas,950092,Pipeline monitoring and maintenance optimization,EPD,5490000000.0,5532000000.0,42000000.0,False
+EOG Resources Inc.,Oil and Gas,147147,Exploration optimization and predictive maintenance,EOG,7759000000.0,7594000000.0,-165000000.0,False
+Equifax Inc.,Business Services,910841,Data analytics and process automation ,EFX,696200000.0,545300000.0,-150900000.0,False
+Equity Office Properties Trust,Real Estate,395055,Property valuation and investment analytics,ABR,325783000.0,371434000.0,45651000.0,False
+Equity Residential Properties Trust,Real Estate,219926,Property valuation and investment analytics,ABR,325783000.0,371434000.0,45651000.0,False
+Estee Lauder Companies Inc.,Consumer Goods,496812,Demand forecasting and marketing optimization,EL,2390000000.0,1006000000.0,-1384000000.0,True
+Exelon Corporation,Energy,218966,Infrastructure monitoring and predictive maintenance,EXC,2170000000.0,2328000000.0,158000000.0,False
+Expeditors International of Washington Inc.,Transportation,728796,Fleet optimization and demand forecasting,EXPD,1357399000.0,752883000.0,-604516000.0,False
+ExxonMobil Corporation,Oil and Gas ,527225,Exploration optimization and predictive maintenance,XOM,55740000000.0,36010000000.0,-19730000000.0,False
+Fairchild Semiconductor International Inc.,Technology,2891599,Design automation and predictive maintenance,A,1254000000.0,1240000000.0,-14000000.0,False
+Farmland Industries Inc.,Agriculture,758609,Demand forecasting and supply chain optimization,FRD,14066000.0,21344000.0,7278000.0,False
+Fidelity National Financial Inc.,Financial Services,520072,Risk analytics and fraud detection,FNF,1294000000.0,517000000.0,-777000000.0,False
+Fifth Third Bancorp,Banking,677868,Fraud detection and credit risk analysis  ,FITB,2446000000.0,2349000000.0,-97000000.0,False
+First American Financial Corp.,Financial Services  ,422731,Risk modeling and fraud detection,ABEV,14457900000.0,14501900000.0,44000000.0,False
+FirstEnergy Corp.,Energy,892101,Infrastructure monitoring and predictive maintenance,FE,406000000.0,1102000000.0,696000000.0,False
+FleetBoston Financial Co.,Banking,433742,Fraud detection and investment analytics ,ASX,61501545000.0,,,False
+Flowers Foods Inc.,Food Processing,180105,Demand forecasting and supply chain optimization,FLO,228394000.0,123416000.0,-104978000.0,False
+Fluor Corp,Engineering,129074,Project planning and optimization  ,FLR,145000000.0,139000000.0,-6000000.0,False
+FMC Corp,Chemicals,566845,R&D acceleration and predictive maintenance,FMC,736500000.0,1321500000.0,585000000.0,False
+Foamex International Inc,Manufacturing  ,147658,Predictive maintenance and quality control automation,CIX,20871000.0,22593000.0,1722000.0,False
+Foot Locker Inc,Retail,540712,Inventory optimization and demand forecasting ,FL,893000000.0,342000000.0,-551000000.0,False
+Footstar Inc.,Retail,879257,Inventory optimization and personalized promotions,A,1254000000.0,1240000000.0,-14000000.0,False
+Ford Motor Co,Automotive,205584,Predictive maintenance and supply chain optimization,AJG,1114200000.0,969500000.0,-144700000.0,False
+FPL Group Inc.,Energy,468507,Infrastructure monitoring and predictive maintenance,A,1254000000.0,1240000000.0,-14000000.0,False
+Franklin Resources Inc.,Financial Services  ,103093,Investment analytics and fraud detection,BEN,1291900000.0,882800000.0,-409100000.0,False
+Gannett Co. Inc.,Media,765600,Content recommendation and ad targeting,GCI,-78002000.0,-27791000.0,50211000.0,True
+Gateway Inc.,Technology,6590687,Demand forecasting and supply chain optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+GATX Corporation,Transportation  ,549374,Fleet optimization and demand forecasting,GATX,155900000.0,259200000.0,103300000.0,False
+GenCorp Inc.,Manufacturing,248129,Predictive maintenance and process optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+General Dynamics Corporation,Aerospace/Defense,125732,Supply chain optimization and predictive maintenance,GD,3390000000.0,3315000000.0,-75000000.0,False
+General Electric Company,Conglomerate,227241,Wide range of AI applications ,GE,336000000.0,9482000000.0,9146000000.0,False
+General Mills Inc,Food Processing,803459,Demand forecasting and supply chain optimization,GIS,2707300000.0,2593900000.0,-113400000.0,False
+General Motors Corporation,Automotive,883626,Predictive maintenance and supply chain optimization,AA,-123000000.0,-651000000.0,-528000000.0,False
+Gentek Inc.,Manufacturing,958911,Predictive maintenance and process optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+Genuine Parts Company,Wholesale,564313,Inventory optimization and demand forecasting,GPC,1182701000.0,1316524000.0,133823000.0,False
+Genuity Inc.,Telecommunications  ,186766,Network optimization and predictive analytics,A,1254000000.0,1240000000.0,-14000000.0,False
+Genzyme Corporation,Healthcare,158640,Drug discovery and precision medicine  ,AAME,1525000.0,,,False
+Georgia-Pacific Corporation,Manufacturing ,512096,Predictive maintenance and process optimization,AA,-123000000.0,-651000000.0,-528000000.0,False
+Gillette Company,Consumer Goods,551260,Marketing optimization and demand forecasting ,ACHC,273139000.0,-21667000.0,-294806000.0,True
+Gold Kist Inc.,Food Processing,316012,Demand forecasting and supply chain optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+Golden West Financial Corporation,Banking,373087,Fraud detection and investment analytics,FBK,124555000.0,120224000.0,-4331000.0,False
+Goldman Sachs Group Inc.,Financial Services,383143,Investment analytics and fraud detection,GS,11261000000.0,8516000000.0,-2745000000.0,False
+The Goodyear Tire & Rubber Company,Manufacturing,857865,Predictive maintenance and design optimization,GT,202000000.0,-689000000.0,-891000000.0,False
+Granite Construction Incorporated,Construction,256846,Project planning and optimization  ,GVA,83302000.0,43599000.0,-39703000.0,False
+Great Lakes Chemical Corporation,Chemicals,919616,R&D acceleration and predictive maintenance,WLK,2247000000.0,479000000.0,-1768000000.0,False
+Grey Global Group Inc.,Advertising,284277,Ad targeting and marketing analytics,BERY,766000000.0,609000000.0,-157000000.0,True
+Group 1 Automotive Inc.,Retail  ,538686,Customer analytics and inventory optimization,GPI,751500000.0,601600000.0,-149900000.0,True
+Guidant Corporation,Healthcare,648267,Medical device optimization and diagnostics,AAME,1525000.0,,,False
+H&R Block Inc.,Financial Services,721732,Process automation and fraud detection,HRB,553674000.0,553700000.0,26000.0,False
+H.B. Fuller Company,Manufacturing,970722,Predictive maintenance and supply chain optimization ,FUL,180313000.0,144906000.0,-35407000.0,False
+H.J. Heinz Company,Food Processing,433831,Demand forecasting and supply chain optimization,ACHC,273139000.0,-21667000.0,-294806000.0,False
+Halliburton Co.,Oil and Gas,963349,Predictive maintenance and drilling optimization,AJG,1114200000.0,969500000.0,-144700000.0,False
+Harley-Davidson Inc.,Manufacturing,511505,Predictive maintenance and design optimization,HOG,741408000.0,706586000.0,-34822000.0,False
+Hartford Financial Services Group Inc.,Insurance ,417784,Claims automation and fraud detection,HIG,1819000000.0,2504000000.0,685000000.0,False
+Hasbro Inc.,Consumer Goods,109874,"Demand forecasting, marketing optimization",HAS,203500000.0,-1489300000.0,-1692800000.0,True
+Hawaiian Electric Industries Inc.,Utilities,479968,"Infrastructure monitoring, demand forecasting",HE,243028000.0,201128000.0,-41900000.0,False
+HCA Inc.,Healthcare,170990,"Patient flow optimization, administration automation",A,1254000000.0,1240000000.0,-14000000.0,False
+Health Net Inc.,Healthcare,226459,"Claims automation, utilization analysis",A,1254000000.0,1240000000.0,-14000000.0,False
+Henry Schein Inc.,Healthcare,162644,"Supply chain optimization, inventory management",HSIC,538000000.0,416000000.0,-122000000.0,False
+Hercules Inc.,Chemicals,899739,"Predictive maintenance, R&D acceleration",A,1254000000.0,1240000000.0,-14000000.0,False
+Hewlett-Packard Company,Technology,3563191,"Supply chain optimization, product optimization",HPE,868000000.0,2025000000.0,1157000000.0,False
+Home Depot Inc.,Retail,392269,"Inventory optimization, demand forecasting",HD,16433000000.0,17105000000.0,672000000.0,False
+Hon Industries Inc.,Manufacturing,198253,"Predictive maintenance, process optimization",THO,1137804000.0,374271000.0,-763533000.0,False
+Honeywell International Inc.,Manufacturing,292239,"Predictive maintenance, process optimization",HON,4966000000.0,5658000000.0,692000000.0,False
+Hovnanian Enterprises Inc.,Homebuilding,961293,"Demand forecasting, process optimization",HOV,225490000.0,205891000.0,-19599000.0,False
+Hub Group Inc.,Transportation,502353,"Fleet optimization, demand forecasting ",HUBG,356948000.0,167528000.0,-189420000.0,False
+Hubbell Inc.,Manufacturing,807607,"Predictive maintenance, process optimization",HUBB,545900000.0,759800000.0,213900000.0,False
+Humana Inc.,Healthcare,892056,"Claims automation, utilization analysis",HUM,2806000000.0,2489000000.0,-317000000.0,False
+Idacorp Inc.,Utilities,335602,"Infrastructure monitoring, demand forecasting",IDA,258982000.0,261195000.0,2213000.0,False
+IDT Corporation,Telecommunications,671361,"Network optimization, customer analytics",IDT,27028000.0,40492000.0,13464000.0,True
+Illinois Tool Works Inc.,Manufacturing,687830,"Predictive maintenance, process optimization",ITW,3034000000.0,2957000000.0,-77000000.0,False
+IMC Global Inc.,Chemicals,400174,"Predictive maintenance, process optimization",BOOM,14184000.0,21389000.0,7205000.0,False
+IMS Health Inc.,Healthcare,659624,"Data analytics, administration process automation",A,1254000000.0,1240000000.0,-14000000.0,False
+Ingram Micro Inc.,Wholesale,647815,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Insight Enterprises Inc.,Technology,4538376,"Supply chain optimization, predictive analytics",NSIT,280608000.0,281309000.0,701000.0,False
+Intel Corporation,Technology,8149592,"Chip design automation, equipment predictive maintenance",INTC,8014000000.0,1689000000.0,-6325000000.0,False
+International Paper Co.,Manufacturing,918613,"Predictive maintenance, supply chain optimization",IP,1504000000.0,288000000.0,-1216000000.0,False
+Interpublic Group of Companies Inc.,Advertising,795374,"Ad targeting, campaign optimization",IPG,938000000.0,1098400000.0,160400000.0,False
+Interstate Bakeries Corporation,Food Processing,604695,"Demand forecasting, distribution optimization",AA,-123000000.0,-651000000.0,-528000000.0,False
+International Business Machines Corp.,Technology,3049103,"IT process automation, AI capabilities",IBM,1640000000.0,7502000000.0,5862000000.0,False
+International Flavors & Fragrances Inc.,Manufacturing,369941,"Product development acceleration, demand forecasting",IFF,-1868000000.0,-2565000000.0,-697000000.0,False
+International Multifoods Corporation,Food Processing,954975,"Demand forecasting, supply chain optimization",AA,-123000000.0,-651000000.0,-528000000.0,False
+Intuit Inc.,Technology,8655005,"Process automation, security enhancement",INTU,2066000000.0,2384000000.0,318000000.0,False
+ITT Industries Inc.,Manufacturing,840561,"Predictive maintenance, process optimization",SMIT,-3283776.0,,,False
+J.B. Hunt Transport Services Inc.,Transportation,962118,"Fleet routing optimization, demand forecasting",JBHT,969351000.0,728287000.0,-241064000.0,False
+J.C. Penny Co.,Retail,354700,"Customer analytics, inventory optimization",AJG,1114200000.0,969500000.0,-144700000.0,True
+J.P. Morgan Chase & Co.,Banking,607550,"Fraud detection, investment analytics",JPM,37676000000.0,49552000000.0,11876000000.0,False
+Jack In The Box Inc.,Restaurants,586318,"Demand forecasting, customer analytics",JACK,115781000.0,130826000.0,15045000.0,True
+Jefferson-Pilot Co.,Financial Services,919337,"Risk analytics, fraud detection",ARTW,97797.0,266969.0,169172.0,False
+John Hancock Financial Services Inc.,Financial Services,994579,"Risk modeling, fraud detection",CBFV,11247000.0,22550000.0,11303000.0,False
+Johnson & Johnson,Healthcare,926062,"Drug discovery, precision medicine",JNJ,17941000000.0,35153000000.0,17212000000.0,False
+Johnson Controls Inc.,Manufacturing,958504,"Predictive maintenance, building automation",JNJ,17941000000.0,35153000000.0,17212000000.0,False
+KB Home,Homebuilding,355739,"Demand forecasting, process optimization",KBH,816666000.0,590177000.0,-226489000.0,False
+Kellogg Company,Food Processing,320559,"Demand forecasting, supply chain optimization ",K,960000000.0,951000000.0,-9000000.0,False
+Kellwood Company,Manufacturing,461543,"Predictive maintenance, design optimization",ACHC,273139000.0,-21667000.0,-294806000.0,False
+Kelly Services Inc.,Staffing,844875,Candidate matching and ranking,KELYA,-62500000.0,36400000.0,98900000.0,False
+Kennametal Inc.,Manufacturing,498444,"Predictive maintenance, process optimization",KMT,144623000.0,118459000.0,-26164000.0,False
+KeyCorp,Banking,982828,"Fraud detection, investment analytics  ",KEY,1917000000.0,967000000.0,-950000000.0,False
+Kimberly-Clark Corporation,Manufacturing,957337,"Predictive maintenance, supply chain optimization",KMB,1934000000.0,1764000000.0,-170000000.0,False
+KLA-Tencor Corporation,Technology,5068306,"Automated quality control, predictive maintenance",KLAC,3321807000.0,3387277000.0,65470000.0,False
+Kohl's Corp.,Retail,197472,"Inventory optimization, customer analytics",KSS,938000000.0,-19000000.0,-957000000.0,True
+Kroger Co.,Retail,315129,"Inventory optimization, demand forecasting",KR,1655000000.0,2244000000.0,589000000.0,False
+L-3 Communications Holdings Inc.,Aerospace/Defense,644160,"Predictive maintenance, supply chain optimization",CCOI,5146000.0,1273441000.0,1268295000.0,False
+Laboratory Corporation of America Holdings,Healthcare,632370,"Automated diagnostics, fraud detection ",LH,1279100000.0,418000000.0,-861100000.0,False
+Lam Research Corporation,Technology,8562215,"Automated quality control, predictive maintenance ",LRCX,4605286000.0,4510931000.0,-94355000.0,False
+LandAmerica Financial Group Inc.,Financial Services,122828,"Risk analytics, fraud detection",AFG,898000000.0,852000000.0,-46000000.0,False
+Lands' End Inc.,Retail,519809,"Recommendation engine, demand forecasting",LE,33369000.0,-12530000.0,-45899000.0,True
+Landstar System Inc.,Transportation,225851,"Fleet optimization, demand forecasting ",LSTR,430914000.0,264394000.0,-166520000.0,False
+La-Z-Boy Inc.,Manufacturing,874761,"Predictive maintenance, process optimization",LZB,150017000.0,150664000.0,647000.0,False
+Lear Corporation,Manufacturing,340355,"Predictive maintenance, design optimization",LEA,327700000.0,572500000.0,244800000.0,False
+Lennar Corporation,Homebuilding,857619,"Demand forecasting, process optimization",LEN,4614125000.0,3938511000.0,-675614000.0,False
+Lennox International Inc.,Manufacturing,545412,"Predictive maintenance, quality control automation",LII,497100000.0,590100000.0,93000000.0,False
+Levi Strauss & Co.,Retail,970473,"Inventory optimization, demand forecasting",ARTW,97797.0,266969.0,169172.0,False
+Limited Inc.,Retail,292146,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Lincoln National Corporation,Financial Services,842078,"Risk analytics, claims automation",LNC,1358000000.0,-752000000.0,-2110000000.0,False
+Lithia Motors Inc.,Retail,191134,"Customer analytics, inventory optimization",LAD,1251000000.0,1000800000.0,-250200000.0,True
+Lockheed Martin Corporation,Aerospace/Defense,285836,"Predictive maintenance, supply chain optimization",LMT,5732000000.0,6920000000.0,1188000000.0,False
+Loews Corporation,Conglomerate,591860,Wide range of AI applications,L,822000000.0,1434000000.0,612000000.0,False
+Longs Drug Stores Corporation,Retail,321482,"Inventory optimization, demand forecasting",AA,-123000000.0,-651000000.0,-528000000.0,False
+Louisiana-Pacific Corporation,Manufacturing,911782,"Predictive maintenance, process optimization",LPX,1086000000.0,178000000.0,-908000000.0,False
+Lowe's Companies Inc.,Retail,108047,"Inventory optimization, demand forecasting",LOW,8442000000.0,6437000000.0,-2005000000.0,False
+The LTV Corporation,Manufacturing ,312642,"Predictive maintenance, process optimization",AAME,1525000.0,,,False
+Lucent Technologies Inc.,Telecommunications,138255,"Network optimization, predictive analytics",A,1254000000.0,1240000000.0,-14000000.0,False
+M & T Bank Corporation,Banking,578393,"Fraud detection, investment analytics",MTB,1992000000.0,2741000000.0,749000000.0,False
+Mail-Well Inc.,Business Services,456496,"Process automation, data analytics",A,1254000000.0,1240000000.0,-14000000.0,False
+Manor Care Inc.,Healthcare,248343,"Patient care optimization, administration automation",A,1254000000.0,1240000000.0,-14000000.0,False
+Manpower Inc.,Staffing  ,424903,Candidate matching and ranking,A,1254000000.0,1240000000.0,-14000000.0,False
+Markel Corporation,Insurance,464087,"Risk analytics, claims automation",MKL,-216277000.0,1996060000.0,2212337000.0,False
+Marriott International Inc.,Hospitality,446402,"Customer analytics, demand forecasting",MAR,2358000000.0,3083000000.0,725000000.0,True
+Marsh & McLennan Companies Inc.,Insurance,476037,"Risk analytics, claims automation ",MMC,3050000000.0,3756000000.0,706000000.0,False
+Marshall & Ilsley Corporation,Banking,180343,"Fraud detection, investment analytics",AA,-123000000.0,-651000000.0,-528000000.0,False
+Martin Marietta Materials Inc.,Construction Materials,886238,"Demand forecasting, process optimization",MLM,867000000.0,1169000000.0,302000000.0,False
+Masco Corporation,Manufacturing,559532,"Predictive maintenance, supply chain optimization",MAS,846000000.0,908000000.0,62000000.0,False
+MasTec Inc.,Construction,601939,Project scheduling optimization  ,MTZ,33354000.0,-49949000.0,-83303000.0,False
+Mattel Inc.,Consumer Goods,983373,"Demand forecasting, marketing optimization",MAT,393913000.0,214352000.0,-179561000.0,True
+Maxtor Corporation,Technology,3868168,"Automated quality control, predictive maintenance",DXR,5178133.0,280640.0,-4897493.0,False
+Maxxam Inc.,Manufacturing,636701,"Predictive maintenance, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+The May Department Stores Company,Retail,196549,"Inventory optimization, demand forecasting",AES,-546000000.0,249000000.0,795000000.0,False
+Maytag Corporation,Manufacturing,183651,"Predictive maintenance, quality control automation",AAME,1525000.0,,,False
+McCormick & Company Incorporated,Food Processing,348551,"Demand forecasting, supply chain optimization",MKC,682000000.0,680600000.0,-1400000.0,False
+McDonald's Corporation,Restaurants  ,593415,"Demand forecasting, supply chain optimization",MCD,6177000000.0,8469000000.0,2292000000.0,False
+McKesson Corporation,Healthcare,555601,"Inventory optimization, claims automation",MCK,1114000000.0,3560000000.0,2446000000.0,False
+McLeodUSA Incorporated,Telecommunications,478539,"Network optimization, customer analytics",ATI,323500000.0,410800000.0,87300000.0,True
+MDU Resources Group Inc.,Utilities,265151,"Infrastructure monitoring, demand forecasting ",MDU,367489000.0,414707000.0,47218000.0,False
+Mellon Financial Corporation,Financial Services,678019,"Investment analytics, fraud detection ",FULT,286981000.0,284280000.0,-2701000.0,False
+Merck & Co. Inc.,Healthcare,730040,"Drug discovery, precision medicine",A,1254000000.0,1240000000.0,-14000000.0,False
+Mercury General Corporation,Insurance,381065,"Claims automation, risk modeling",MCY,-512672000.0,96336000.0,609008000.0,False
+Metaldyne Corporation,Manufacturing,524489,"Predictive maintenance, quality control automation",MEOH,353830000.0,174140000.0,-179690000.0,False
+Metals USA Inc.,Metals,324271,"Demand forecasting, predictive maintenance ",A,1254000000.0,1240000000.0,-14000000.0,False
+MetLife Inc.,Insurance,506023,"Claims automation, policy pricing optimization",MET,5284000000.0,1578000000.0,-3706000000.0,False
+MGIC Investment Corporation,Financial Services,280090,"Risk analytics, fraud detection",MTG,865349000.0,712949000.0,-152400000.0,False
+MGM Mirage,Hospitality,601691,"Customer analytics, demand forecasting",MGM,1473093000.0,1142180000.0,-330913000.0,True
+Micron Technology Inc.,Technology,6541530,"Manufacturing process optimization, quality control",MU,8687000000.0,-5833000000.0,-14520000000.0,False
+Microsoft Corporation,Technology,2727566,"Product recommendation, IT process automation  ",MSFT,72738000000.0,72361000000.0,-377000000.0,True
+Milacron Inc.,Manufacturing,608730,"Predictive maintenance, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Mirant Corporation,Energy,583456,"Predictive maintenance, demand forecasting",AAME,1525000.0,,,False
+Mohawk Industries Inc.,Manufacturing,525868,"Predictive maintenance, supply chain optimization",MHK,25200000.0,-439500000.0,-464700000.0,False
+Molex Incorporated,Manufacturing,241342,"Predictive maintenance, quality control automation",ABM,230400000.0,251300000.0,20900000.0,False
+Morgan Stanley Dean Witter & Co.,Financial Services,302865,"Investment analytics, fraud detection",MS,11029000000.0,9087000000.0,-1942000000.0,False
+Motorola Inc.,Technology,6090248,"Supply chain optimization, product optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+MPS Group Inc.,Staffing,214111,Candidate matching and ranking ,A,1254000000.0,1240000000.0,-14000000.0,False
+Murphy Oil Corporation,Oil and Gas,407825,"Exploration optimization, equipment monitoring",MUR,965047000.0,661559000.0,-303488000.0,False
+Nabors Industries Inc,Oil and Gas,248264,"Predictive maintenance, drilling optimization",NC,74158000.0,-39587000.0,-113745000.0,False
+Nacco Industries Inc,Manufacturing  ,208609,"Predictive maintenance, process optimization",NC,74158000.0,-39587000.0,-113745000.0,False
+Nash Finch Company,Wholesale,136721,"Inventory optimization, demand forecasting  ",ACHC,273139000.0,-21667000.0,-294806000.0,False
+National Fuel Gas Company,Oil and Gas,671486,"Pipeline monitoring, equipment maintenance optimization",NFG,566021000.0,476866000.0,-89155000.0,False
+National Oilwell Inc,Manufacturing,262213,"Predictive maintenance, process optimization",NOV,155000000.0,993000000.0,838000000.0,False
+National Rural Utilities Cooperative Finance Corporation,Financial Services,563805,"Risk analytics, investment optimization  ",AA,-123000000.0,-651000000.0,-528000000.0,False
+National Semiconductor Corporation,Technology,5825430,"Chip design automation, predictive maintenance",ON,1902200000.0,2183700000.0,281500000.0,False
+New Jersey Resources Corporation,Utilities,549652,"Infrastructure monitoring, demand forecasting",NJR,274922000.0,264724000.0,-10198000.0,False
+New York Times Company,Media,345449,"Content recommendation, ad targeting",NYT,173905000.0,232387000.0,58482000.0,True
+Newmont Mining Corporation,Mining,452258,"Equipment monitoring, predictive maintenance",NEM,-429000000.0,-2494000000.0,-2065000000.0,False
+Nike Inc,Retail,881805,"Demand forecasting, inventory optimization  ",NKE,6046000000.0,5070000000.0,-976000000.0,False
+NiSource Inc,Utilities,628021,"Infrastructure monitoring, demand forecasting",NI,804100000.0,714300000.0,-89800000.0,False
+Nordstrom Inc,Retail,762933,"Recommendation engine, inventory optimization",JWN,178000000.0,245000000.0,67000000.0,True
+Norfolk Southern Corporation,Transportation,218645,"Fleet optimization, demand forecasting",NSC,3270000000.0,1827000000.0,-1443000000.0,False
+Nortek Inc,Manufacturing,769569,"Predictive maintenance, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Northeast Utilities System,Utilities,373087,"Infrastructure monitoring, demand forecasting ",ERH,4792425.0,-13202880.0,-17995305.0,False
+Northern Trust Corporation,Financial Services,901207,"Investment analytics, fraud detection",NTRS,1336000000.0,1107300000.0,-228700000.0,False
+Northrop Grumman Corporation,Aerospace/Defense  ,615358,"Predictive maintenance, supply chain optimization",NOC,4896000000.0,2056000000.0,-2840000000.0,False
+NorthWestern Corporation,Utilities,918929,"Infrastructure monitoring, demand forecasting",NWE,183008000.0,194131000.0,11123000.0,False
+NSTAR,Utilities,755030,"Infrastructure monitoring, demand forecasting  ",ESGR,-870000000.0,1118000000.0,1988000000.0,False
+NTL Incorporated,Telecommunications,910800,"Network optimization, customer analytics",ABM,230400000.0,251300000.0,20900000.0,True
+Nucor Corp,Metals,475569,"Predictive maintenance, demand forecasting",NUE,7607000000.0,4525000000.0,-3082000000.0,False
+Nvidia Corp,Technology,2283798,"Chip design automation, predictive maintenance",NVDA,9752000000.0,4368000000.0,-5384000000.0,False
+NVR Inc,Homebuilding,749048,"Demand forecasting, process optimization",NVR,1725575000.0,1591611000.0,-133964000.0,False
+Occidental Petroleum Corp,Oil and Gas,501727,"Exploration optimization, equipment monitoring",OXY,13304000000.0,4696000000.0,-8608000000.0,False
+Ocean Energy Inc,Oil and Gas,461305,"Exploration optimization, equipment monitoring",A,1254000000.0,1240000000.0,-14000000.0,False
+Office Depot Inc.,Retail,530945,"Inventory optimization, demand forecasting  ",ODP,166000000.0,139000000.0,-27000000.0,False
+OfficeMax Inc,Retail,380521,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+OGE Energy Corp,Energy,756868,"Infrastructure monitoring, predictive maintenance",OGE,665700000.0,416800000.0,-248900000.0,False
+Old Republic International Corp.,Insurance,436524,"Claims automation, risk modeling",ORI,686400000.0,598600000.0,-87800000.0,False
+Olin Corp.,Chemicals,158540,"Predictive maintenance, process optimization",OLN,1326900000.0,460200000.0,-866700000.0,False
+Omnicare Inc,Healthcare,473243,"Inventory optimization, claims automation ",A,1254000000.0,1240000000.0,-14000000.0,False
+Omnicom Group,Advertising,274325,"Ad targeting, campaign optimization",OMC,1316500000.0,1391400000.0,74900000.0,False
+ONEOK Inc,Energy,178971,"Infrastructure monitoring, predictive maintenance ",OKE,1722000000.0,2659000000.0,937000000.0,False
+Oracle Corp,Technology,9719019,"Process automation, security enhancement",ORCL,6717000000.0,8503000000.0,1786000000.0,False
+Owens & Minor Inc.,Wholesale,716451,"Inventory optimization, demand forecasting",OMI,22389000.0,-41301000.0,-63690000.0,False
+Owens Corning,Manufacturing,146160,"Predictive maintenance, supply chain optimization",OC,1241000000.0,1196000000.0,-45000000.0,False
+Owens-Illinois Inc,Manufacturing,951212,"Predictive maintenance, quality control automation",OI,584000000.0,-103000000.0,-687000000.0,False
+Paccar Inc,Manufacturing,164605,"Predictive maintenance, design optimization",PCAR,3011600000.0,4600800000.0,1589200000.0,False
+Pantry Inc,Retail,798421,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Paychex Inc,Business Services,501306,"Process automation, predictive analytics",PAYX,1392800000.0,1557300000.0,164500000.0,False
+Penn Traffic Co.,Retail,158104,"Inventory optimization, demand forecasting",AJG,1114200000.0,969500000.0,-144700000.0,False
+Pentair Inc,Manufacturing,793428,"Predictive maintenance, quality control automation",A,1254000000.0,1240000000.0,-14000000.0,False
+PeopleSoft Inc,Technology,1415444,"Process automation, predictive analytics",A,1254000000.0,1240000000.0,-14000000.0,False
+Potomac Electric Power Co.,Energy,261888,"Infrastructure monitoring, predictive maintenance",ASX,61501545000.0,,,False
+PepsiCo Inc.,Food and Beverage,363457,"Demand forecasting, marketing optimization",PEP,8910000000.0,9074000000.0,164000000.0,True
+Performance Food Group Co.,Food Services  ,776595,"Demand forecasting, supply chain optimization",PFGC,112500000.0,397200000.0,284700000.0,False
+Perini Corp,Construction,277420,Project scheduling optimization,TPC,-210009000.0,-171155000.0,38854000.0,False
+PETsMART Inc,Retail,243079,"Inventory optimization, customer analytics ",A,1254000000.0,1240000000.0,-14000000.0,True
+Pfizer Inc,Healthcare,382815,"Drug discovery, precision medicine",PFE,31372000000.0,2119000000.0,-29253000000.0,False
+Pacific Gas & Electric Corp.,Energy,109151,"Infrastructure monitoring, predictive maintenance",PCG,1814000000.0,2256000000.0,442000000.0,False
+Phar Mor Inc.,Retail,695022,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Phillips Petroleum Co,Oil and Gas,907652,"Exploration optimization, equipment monitoring",ASX,61501545000.0,,,False
+Pilgrim's Pride Corporation,Food Processing,637797,"Demand forecasting, supply chain optimization",PPC,745930000.0,321574000.0,-424356000.0,False
+Pinnacle West Capital Corp,Energy,925390,"Infrastructure monitoring, predictive maintenance",PNW,483602000.0,501557000.0,17955000.0,False
+Pitney Bowes Inc.,Manufacturing,751937,"Predictive maintenance, supply chain optimization",PBI,36940000.0,-385627000.0,-422567000.0,False
+Plains All American Pipeline LP,Oil and Gas,935937,Pipeline monitoring and optimization,PAA,1037000000.0,1230000000.0,193000000.0,False
+PNC Financial Services Group Inc.,Banking,624661,"Fraud detection, investment analytics",PNC,6041000000.0,5578000000.0,-463000000.0,False
+Polaris Industries Inc.,Manufacturing,290846,"Predictive maintenance, design optimization",PII,447100000.0,502800000.0,55700000.0,False
+Popular Inc,Banking,836164,"Fraud detection, credit risk analysis",BPOP,1102641000.0,541342000.0,-561299000.0,False
+PPG Industries Inc,Manufacturing,857252,"Predictive maintenance, process optimization",PPG,1026000000.0,1270000000.0,244000000.0,False
+PPL Corp,Energy,339462,"Infrastructure monitoring, predictive maintenance",PPL,756000000.0,740000000.0,-16000000.0,False
+Praxair Inc,Chemicals,328657,"Process optimization, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+Premcor Inc.,Oil and Gas,698094,"Predictive maintenance, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Primedia Inc,Media,399550,"Content recommendation, ad targeting",PRI,472068000.0,576601000.0,104533000.0,True
+Principal Financial Group Inc.,Financial Services,832468,"Risk modeling, fraud detection",PFG,4756900000.0,623200000.0,-4133700000.0,False
+Procter & Gamble Co.,Consumer Goods,269210,"Demand forecasting, marketing optimization",PG,14742000000.0,14653000000.0,-89000000.0,True
+Progressive Corporation,Insurance,409253,"Claims automation, risk modeling",PGR,721500000.0,3902400000.0,3180900000.0,False
+Provident Financial Group,Financial Services,270800,"Risk modeling, fraud detection",ALG,101928000.0,136161000.0,34233000.0,False
+Prudential Financial Inc.,Financial Services,892696,"Risk modeling, fraud detection",PRU,-1647000000.0,2488000000.0,4135000000.0,False
+Public Service Enterprise Group Inc.,Energy,984844,"Infrastructure monitoring, predictive maintenance",PEG,1031000000.0,2563000000.0,1532000000.0,False
+Puget Energy Inc.,Energy,403607,"Infrastructure monitoring, predictive maintenance",MGEE,110952000.0,117699000.0,6747000.0,False
+Pulte Homes Inc,Homebuilding,713054,"Demand forecasting, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Qualcomm Inc,Technology,2452014,"Chip design automation, AI capabilities",QCOM,12936000000.0,7232000000.0,-5704000000.0,False
+Quanta Services Inc.,Construction,262677,Project scheduling optimization,PWR,491189000.0,744689000.0,253500000.0,False
+Raymond James Financial Inc.,Financial Services,389296,"Investment analytics, fraud detection",RJF,1509000000.0,1739000000.0,230000000.0,False
+Regis Corporation,Retail,996066,"Customer analytics, inventory optimization",RGS,-85857000.0,-7385000.0,78472000.0,True
+Reliance Steel & Aluminum Co.,Metals,108286,"Demand forecasting, predictive maintenance",RS,1840100000.0,1335900000.0,-504200000.0,False
+Republic Services Inc,Waste Management,289091,"Fleet routing optimization, predictive maintenance",RSG,1488000000.0,1731000000.0,243000000.0,False
+Robert Half International Inc.,Staffing,518514,Candidate matching and ranking,RHI,657919000.0,411146000.0,-246773000.0,False
+Rock-Tenn Co,Manufacturing,391607,"Predictive maintenance, process optimization",AJG,1114200000.0,969500000.0,-144700000.0,False
+Rockwell Automation Inc,Manufacturing,481464,"Predictive maintenance, process optimization",ROK,932200000.0,1387400000.0,455200000.0,False
+Rohm & Haas Co.,Chemicals,615228,"Process optimization, predictive maintenance",AJG,1114200000.0,969500000.0,-144700000.0,False
+Ross Stores Inc,Retail ,919965,"Inventory optimization, demand forecasting",ROST,1722589000.0,1512041000.0,-210548000.0,False
+RPM Inc.,Manufacturing,381725,"Predictive maintenance, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Ryder System Inc,Transportation,286529,"Fleet optimization, demand forecasting",R,867000000.0,406000000.0,-461000000.0,False
+Ryerson Tull Inc,Metals,264968,"Demand forecasting, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+Ryland Group Inc.,Homebuilding,962885,"Demand forecasting, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Safeway Inc,Retail  ,669537,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Saks Inc,Retail,983901,"Recommendation engine, inventory optimization  ",A,1254000000.0,1240000000.0,-14000000.0,True
+Sanmina-SCI Inc,Technology,5641565,"Supply chain optimization, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+SCI Systems Onc.,Technology,2341959,"Supply chain optimization, predictive maintenance",OSIS,115347000.0,91778000.0,-23569000.0,False
+Scotts Company,Manufacturing,663902,"Demand forecasting, supply chain optimization",ACHC,273139000.0,-21667000.0,-294806000.0,False
+Seaboard Corp,Food Processing,373382,"Demand forecasting, supply chain optimization",SEB,580000000.0,226000000.0,-354000000.0,False
+Sears Roebuck & Co,Retail,394361,"Inventory optimization, demand forecasting ",ARTW,97797.0,266969.0,169172.0,False
+Sempra Energy,Energy,877439,"Infrastructure monitoring, predictive maintenance",SRE,2139000000.0,3075000000.0,936000000.0,False
+Service Corp. International,Business Services  ,853139,"Process automation, predictive analytics",SCI,565338000.0,537317000.0,-28021000.0,False
+ServiceMaster Co,Business Services,715790,"Process automation, predictive analytics ",AJG,1114200000.0,969500000.0,-144700000.0,False
+Shaw Group Inc,Construction,715812,Project scheduling optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+Sherwin-Williams Company,Manufacturing,867260,"Demand forecasting, supply chain optimization",SHW,2020100000.0,2388800000.0,368700000.0,False
+Sierra Health Services Inc,Healthcare,101975,"Claims automation, utilization analysis",UHS,675609000.0,717795000.0,42186000.0,False
+Silgan Holdings Inc.,Manufacturing,770286,"Predictive maintenance, process optimization",SLGN,340848000.0,325965000.0,-14883000.0,False
+Simon Property Group Inc,Real Estate,993090,"Property valuation, investment optimization",SPG,2139535000.0,2283126000.0,143591000.0,False
+SLM Corporation,Financial Services,778294,"Credit risk modeling, loan analytics",SLM,469014000.0,581391000.0,112377000.0,False
+Smith International Inc,Oil and Gas,221864,"Equipment monitoring, drilling optimization",LIQT,-14169107.0,-8571145.0,5597962.0,False
+Snap-On Inc,Manufacturing,218036,"Predictive maintenance, supply chain optimization",SNA,911700000.0,1011100000.0,99400000.0,False
+Solutia Inc,Chemicals,130335,"Process optimization, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+Sonic Automotive Inc.,Retail,217867,"Inventory optimization, customer analytics",SAH,88500000.0,178200000.0,89700000.0,True
+Sonoco Products Co.,Manufacturing,616794,"Predictive maintenance, process optimization",SON,466437000.0,474959000.0,8522000.0,False
+Southern Company,Energy,427728,"Infrastructure monitoring, predictive maintenance ",SO,3535000000.0,3976000000.0,441000000.0,False
+Southwest Airlines Co,Transportation,755375,"Demand forecasting, dynamic pricing",LUV,539000000.0,465000000.0,-74000000.0,False
+Sprint Corp.,Telecommunications,676681,"Network optimization, customer churn prediction",S,-271101000.0,-378678000.0,-107577000.0,True
+SPX Corp,Manufacturing ,637360,"Predictive maintenance, process optimization",SPXC,200000.0,89900000.0,89700000.0,False
+St. Paul Cos.,Insurance,229497,"Risk modeling, claims automation",JOE,70927000.0,77712000.0,6785000.0,False
+StanCorp Financial Group Inc,Insurance,522458,"Risk modeling, claims automation",KB,4152992000000.0,4631932000000.0,478940000000.0,False
+Staples Inc,Retail,623252,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Starbucks Corp,Restaurants  ,339400,"Demand forecasting, customer analytics",SBUX,3281600000.0,4124500000.0,842900000.0,True
+Starwood Hotels & Resorts Worldwide Inc,Hospitality,811392,"Customer analytics, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,True
+Steelcase Inc,Manufacturing,238032,"Predictive maintenance, supply chain optimization",SCS,4000000.0,35300000.0,31300000.0,False
+Stein Mart Inc,Retail,705347,"Inventory optimization, demand forecasting ",SMRT,-96322000.0,-34587000.0,61735000.0,False
+Stewart Information Services Corp,Financial Services,496883,"Risk analytics, fraud detection",STC,162305000.0,30439000.0,-131866000.0,False
+Storage Technology Corporation,Technology,8202981,"IT process automation, predictive analytics",PAR,-69319000.0,-69752000.0,-433000.0,False
+Stryker Corp,Healthcare,747487,"Medical device optimization, precision medicine  ",SYK,2358000000.0,3165000000.0,807000000.0,False
+Sunoco Inc.,Oil and Gas,782790,"Exploration optimization, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+SunTrust Banks Inc,Banking,571298,"Fraud detection, investment analytics",STI,593905.0,-19775602.0,-20369507.0,False
+Supervalu Inc,Retail,922599,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Swift Transportation Co. Inc,Transportation,176165,"Fleet optimization, demand forecasting",KNX,771325000.0,217149000.0,-554176000.0,False
+Symbol Technologies Inc,Technology,5002930,"Supply chain optimization, predictive maintenance",NTWK,-851156.0,-5243748.0,-4392592.0,False
+Synovus Financial Corp.,Banking  ,277845,"Fraud detection, investment analytics",SNV,757902000.0,543705000.0,-214197000.0,False
+Sysco Corp,Food Services,847129,"Demand forecasting, supply chain optimization",SYY,1359000000.0,1770000000.0,411000000.0,False
+Target Corp.,Retail,855741,"Inventory optimization, customer analytics",TGT,6946000000.0,2780000000.0,-4166000000.0,True
+TECO Energy Inc,Energy,887359,"Infrastructure monitoring, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+Tektronix Inc,Technology,2767928,"Product optimization, predictive maintenance",A,1254000000.0,1240000000.0,-14000000.0,False
+Teleflex Incorporated,Healthcare,300380,"Medical device optimization, precision medicine",TFX,363139000.0,356328000.0,-6811000.0,False
+Telephone & Data Systems Inc,Telecommunications,644619,"Network optimization, customer analytics",TDS,62000000.0,-500000000.0,-562000000.0,True
+Tellabs Inc.,Technology,5760407,Network diagnostics and optimization,A,1254000000.0,1240000000.0,-14000000.0,False
+Tenet Healthcare Corporation,Healthcare,244593,"Patient flow optimization, administration automation ",THC,411000000.0,611000000.0,200000000.0,False
+Teradyne Inc,Technology,1132787,"Product testing automation, predictive maintenance",TER,715501000.0,448752000.0,-266749000.0,False
+Terex Corp,Manufacturing,631242,"Predictive maintenance, process optimization",TEX,300000000.0,518000000.0,218000000.0,False
+Texas Instruments Incorporated,Technology,2368366,"Chip design automation, equipment optimization",TXN,8749000000.0,6510000000.0,-2239000000.0,False
+Textron Inc,Manufacturing,546480,"Predictive maintenance, supply chain optimization",TXT,861000000.0,921000000.0,60000000.0,False
+Thermo Electron Corporation,Healthcare,531800,"Diagnostics optimization, precision medicine",AA,-123000000.0,-651000000.0,-528000000.0,False
+Thomas & Betts Corporation,Manufacturing,410069,"Predictive maintenance, process optimization",AA,-123000000.0,-651000000.0,-528000000.0,False
+Timken Company,Manufacturing,357576,"Predictive maintenance, supply chain optimization",TKR,407400000.0,394100000.0,-13300000.0,False
+TJX Companies Inc,Retail ,457397,"Inventory optimization, demand forecasting",TJX,3283000000.0,3498000000.0,215000000.0,False
+Toll Brothers Inc,Homebuilding,659822,"Demand forecasting, process optimization",TOL,1286500000.0,1372071000.0,85571000.0,False
+Toro Company,Manufacturing,528792,"Predictive maintenance, supply chain optimization",TTC,443300000.0,329700000.0,-113600000.0,False
+Toys 'R' Us Inc,Retail,246474,"Inventory optimization, demand forecasting",A,1254000000.0,1240000000.0,-14000000.0,False
+Transocean Inc,Oil and Gas,840779,"Equipment monitoring, drilling optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Tribune Company,Media,568253,"Content recommendation, ad targeting",ACHC,273139000.0,-21667000.0,-294806000.0,True
+Trinity Industries Inc,Manufacturing,529426,"Predictive maintenance, process optimization",TRN,60100000.0,106000000.0,45900000.0,False
+TruServ Corporation,Wholesale,238047,"Inventory optimization, demand forecasting",AAME,1525000.0,,,False
+TRW Inc,Manufacturing  ,273065,"Predictive maintenance, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Tyson Foods Inc,Food Processing,967150,"Demand forecasting, supply chain optimization",TSN,3238000000.0,-648000000.0,-3886000000.0,False
+U.S. Bancorp,Banking,881115,"Fraud detection, investment analytics",USB,5825000000.0,5429000000.0,-396000000.0,False
+UGI Corporation,Utilities ,143407,"Infrastructure monitoring, demand forecasting",UGI,1073000000.0,-1502000000.0,-2575000000.0,False
+Union Pacific Corporation,Transportation,637382,"Fleet optimization, demand forecasting",UNP,6998000000.0,6379000000.0,-619000000.0,False
+Unisys Corporation,Technology,2023728,"Process automation, predictive analytics",UIS,-106000000.0,-430700000.0,-324700000.0,False
+United Parcel Service Inc,Transportation,230349,"Fleet optimization, demand forecasting",UPS,11548000000.0,6708000000.0,-4840000000.0,False
+United Rentals Inc,Business Services,379965,"Fleet optimization, demand forecasting",URI,2105000000.0,2424000000.0,319000000.0,False
+UnitedHealth Group Incorporated,Healthcare,164903,"Claims automation, personalized recommendations",UNH,20120000000.0,22381000000.0,2261000000.0,True
+Unitrin Inc,Insurance,805149,"Claims automation, risk modeling",A,1254000000.0,1240000000.0,-14000000.0,False
+Universal Corporation,Manufacturing  ,299354,"Predictive maintenance, supply chain optimization",UVV,86577000.0,124052000.0,37475000.0,False
+Universal Forest Products Inc,Manufacturing,931595,"Predictive maintenance, demand forecasting",UFPI,692651000.0,514312000.0,-178339000.0,False
+Universal Health Services Inc,Healthcare,188975,"Patient flow optimization, administration automation",UHS,675609000.0,717795000.0,42186000.0,False
+Unocal Corporation,Oil and Gas,790145,"Exploration optimization, equipment monitoring",AAME,1525000.0,,,False
+USA Interactive,Media,736911,"Content recommendation, ad targeting",ATUS,194563000.0,53198000.0,-141365000.0,True
+UST Inc,Tobacco  ,232230,"Demand forecasting, supply chain optimization",AAT,55877000.0,64690000.0,8813000.0,False
+Valero Energy Corporation,Oil and Gas,244797,"Predictive maintenance, demand forecasting",VLO,11528000000.0,8835000000.0,-2693000000.0,False
+Veritas Software Corporation,Technology,9745781,"Process automation, predictive analytics",AA,-123000000.0,-651000000.0,-528000000.0,False
+Verizon Communications Inc,Telecommunications,539153,"Network optimization, customer analytics",VZ,21256000000.0,11614000000.0,-9642000000.0,True
+VF Corporation,Retail,395011,"Inventory optimization, demand forecasting",VFC,1386941000.0,118584000.0,-1268357000.0,False
+Vishay Intertechnology Inc,Technology,7311192,"Chip design automation, predictive maintenance",VSH,428810000.0,323820000.0,-104990000.0,False
+Visteon Corporation,Manufacturing  ,696000,"Predictive maintenance, process optimization",VC,124000000.0,486000000.0,362000000.0,False
+Vulcan Materials Company,Construction Materials,450609,"Demand forecasting, predictive maintenance",VMC,575600000.0,933200000.0,357600000.0,False
+W.R. Berkley Corporation,Insurance,170842,"Risk modeling, claims automation",WRB,1381062000.0,1381359000.0,297000.0,False
+W.W. Grainger Inc,Wholesale,942034,"Inventory optimization, demand forecasting ",GWW,1547000000.0,1829000000.0,282000000.0,False
+Wachovia Corporation,Banking,718791,"Fraud detection, investment analytics",AA,-123000000.0,-651000000.0,-528000000.0,False
+Walgreen Co,Retail  ,546269,"Inventory optimization, demand forecasting",AJG,1114200000.0,969500000.0,-144700000.0,False
+Walt Disney Co,Media,775506,"Content recommendation, customer analytics",DIS,3145000000.0,2354000000.0,-791000000.0,True
+Walter Industries Inc,Manufacturing ,579254,"Predictive maintenance, process optimization",ASTE,-100000.0,33500000.0,33600000.0,False
+Washington Post Co.,Media,952719,"Content recommendation, ad targeting",ARTW,97797.0,266969.0,169172.0,True
+Waste Management Inc,Waste Management,807640,"Fleet routing optimization, predictive maintenance",WM,2238000000.0,2304000000.0,66000000.0,False
+Watsco Inc,Wholesale,579606,"Inventory optimization, demand forecasting",WSO,601167000.0,536337000.0,-64830000.0,False
+Weis Markets Inc.,Retail  ,380719,"Inventory optimization, demand forecasting",WMK,125196000.0,103828000.0,-21368000.0,False
+Wells Fargo & Company,Banking,764182,"Fraud detection, investment analytics",WFC,13677000000.0,19142000000.0,5465000000.0,False
+Wendy's International Inc,Restaurants,569201,"Demand forecasting, customer analytics  ",WCC,860500000.0,765500000.0,-95000000.0,True
+Werner Enterprises Inc,Transportation,445615,"Fleet optimization, demand forecasting",WERN,241256000.0,112382000.0,-128874000.0,False
+WESCO International Inc,Wholesale,240690,"Inventory optimization, demand forecasting",WCC,860500000.0,765500000.0,-95000000.0,False
+Weyerhauser Company,Manufacturing,751802,"Predictive maintenance, supply chain optimization",WY,1880000000.0,839000000.0,-1041000000.0,False
+Whirlpool Corporation,Manufacturing,859635,"Predictive maintenance, supply chain optimization",WHR,-1519000000.0,481000000.0,2000000000.0,False
+Williams Companies Inc,Energy,994948,"Pipeline monitoring, predictive maintenance ",WMB,2049000000.0,3179000000.0,1130000000.0,False
+Williams Sonoma Inc,Retail,862437,"Recommendation engine, inventory optimization",WSM,1126337000.0,1127904000.0,1567000.0,True
+Wisconsin Energy Corporation,Energy,851000,"Infrastructure monitoring, demand forecasting",AA,-123000000.0,-651000000.0,-528000000.0,False
+WorldCom Inc,Telecommunications,702406,"Network optimization, predictive analytics",A,1254000000.0,1240000000.0,-14000000.0,False
+Worthington Industries Inc,Manufacturing ,654717,"Predictive maintenance, process optimization",WOR,379386000.0,256528000.0,-122858000.0,False
+Xcel Energy Inc,Energy,472267,"Infrastructure monitoring, predictive maintenance",XEL,1736000000.0,1771000000.0,35000000.0,False
+Xerox Corp,Technology,7037687,"Process automation, predictive analytics  ",XRX,-322000000.0,1000000.0,323000000.0,False
+Yellow Corporation,Transportation,146797,"Fleet optimization, demand forecasting",AAME,1525000.0,,,False
+Yum Brands Inc.,Restaurants,318063,"Demand forecasting, customer analytics",YUM,1325000000.0,1597000000.0,272000000.0,True
+Zions Bancorporation,Banking  ,298552,"Fraud detection, investment analytics",ZION,907000000.0,680000000.0,-227000000.0,False
+Upgrade Inc,Consulting,326482,"Data analytics, process optimization",A,1254000000.0,1240000000.0,-14000000.0,False
+Propellant Media,Advertising,238427,"Ad targeting, campaign analytics  ",BATRA,-34172000.0,-125294000.0,-91122000.0,False
+Supernova Technology,Technology,9450556,"Process automation, predictive analytics",ASX,61501545000.0,,,False
+Capitol Bridge,Consulting,533593,"Data analytics, process optimization",CFFN,84453000.0,-101659000.0,-186112000.0,False
+Spinnaker Consulting Group,Consulting,795403,"Data analytics, process optimization",ALG,101928000.0,136161000.0,34233000.0,False
+Fair Price Properties,Real Estate  ,353947,"Property valuation, investment optimization",AWP,-181551692.0,-15539419.0,166012273.0,False
+Flux Power,Energy,188297,"Battery optimization, predictive maintenance  ",AEP,2307200000.0,2208100000.0,-99100000.0,False
+Perishable Shipping Solutions,Logistics,260878,"Fleet optimization, demand forecasting",BR,539100000.0,630600000.0,91500000.0,False
+Canadian Plasma Resources,Healthcare,587055,"Supply chain optimization, diagnostics optimization",ARTNA,17998000.0,16699000.0,-1299000.0,False
+Shapermint (Trafilea Group),Ecommerce,157833,"Recommendation engine, inventory optimization",ALG,101928000.0,136161000.0,34233000.0,True
+Light-it,Manufacturing,240019,"Predictive maintenance, process optimization",ITP,-16571308.0,-9946035.0,6625273.0,False
+BrillMedia.co,Advertising,286712,"Ad targeting, campaign optimization",AJG,1114200000.0,969500000.0,-144700000.0,False
+Lemonaid Health,Healthcare,895846,Automated triage and diagnosis ,BHC,-225000000.0,-592000000.0,-367000000.0,False
+The Moresby Group,Real Estate,708927,"Property valuation, investment optimization",AAL,127000000.0,822000000.0,695000000.0,False
+Sunstone,Financial Services,363125,"Investment analytics, portfolio optimization",SHO,87289000.0,206708000.0,119419000.0,False
+Link Energy,Energy,967664,"Demand forecasting, predictive maintenance",AE,3487000.0,212000.0,-3275000.0,False
+Key Tower LLC,Real Estate,562406,"Property valuation, investment optimization",AMT,1765800000.0,1483300000.0,-282500000.0,False
+Ayla Networks,Technology,3602269,"Data analytics, predictive analytics  ",CRNT,-19689000.0,6220000.0,25909000.0,False
+Winning by Design,Consulting,541030,"Data analytics, process optimization",CDNS,848952000.0,1041144000.0,192192000.0,False
+Digital Thrive,Consulting,492729,"Data analytics, process optimization",BLIN,2145000.0,-9435000.0,-11580000.0,False
+Rose Digital,Advertising  ,772538,"Ad targeting, campaign optimization",APPS,35546000.0,16673000.0,-18873000.0,False
+Rocket Insights,Consulting,415964,"Data analytics, process optimization",RCKT,-221863000.0,-245595000.0,-23732000.0,False
+BluShark Digital,Advertising,269397,"Ad targeting, campaign optimization",DLR,377684000.0,948838000.0,571154000.0,False
+Sweet Loren's,Food,471099,"Demand forecasting, supply chain optimization",ABEV,14457900000.0,14501900000.0,44000000.0,False
+Orion Global Solutions,Consulting,132398,"Data analytics, process optimization  ",AGD,-26644776.0,6954637.0,33599413.0,False
+BIO BOLSA,Manufacturing,212522,"Quality control automation, predictive maintenance",BIO,-3627535000.0,-637324000.0,2990211000.0,False
+Doing Good Works,Consulting  ,643197,"Data analytics, process optimization",AWK,820000000.0,944000000.0,124000000.0,False
+Urban Simple,Real Estate,413357,"Property valuation, investment optimization",UE,46170000.0,248497000.0,202327000.0,False
+Fresh Consulting,Consulting,319997,"Data analytics, process optimization  ",FDP,98600000.0,-11400000.0,-110000000.0,False
+Proven Behavior Solutions,Consulting,886738,"Data analytics, process optimization",BR,539100000.0,630600000.0,91500000.0,False
+Arvinas,Healthcare,579437,"Drug discovery acceleration, precision medicine",ARVN,-282500000.0,-367300000.0,-84800000.0,False
+Link Consulting Services,Consulting,706584,"Data analytics, process optimization",CCM,-489661000.0,-297658000.0,192003000.0,False
+iTechArt Group,Technology,9275016,"Process automation, predictive analytics",AAL,127000000.0,822000000.0,695000000.0,False
+Mohawk Group,Ecommerce ,746724,"Recommendation engine, inventory optimization",AAL,127000000.0,822000000.0,695000000.0,True
+Media One Creative,Advertising  ,746768,"Ad targeting, campaign optimization",ATHM,1944786000.0,2033381000.0,88595000.0,False
+Hennessey Digital,Advertising,658994,"Ad targeting, campaign optimization",PAGS,1504768000.0,1653684000.0,148916000.0,False
+Advanced Operations Partners,Consulting,329607,"Process optimization, predictive analytics  ",AM,326242000.0,,,False
+Grupo Albanesi,Energy  ,170110,"Equipment monitoring, predictive maintenance",ASR,9986548000.0,10203713000.0,217165000.0,False
+SOCi Inc,Advertising Tech,604129,"Ad targeting, campaign analytics",MSCI,870573000.0,1148592000.0,278019000.0,False
+The Auto Cave,Retail,978329,"Inventory optimization, demand forecasting  ",AAP,464402000.0,29735000.0,-434667000.0,False
+Klaris Group,Consulting  ,407016,"Data analytics, process optimization",AAL,127000000.0,822000000.0,695000000.0,False
+Branded Group,Advertising,476840,"Ad targeting, campaign optimization",AAL,127000000.0,822000000.0,695000000.0,False
+WLJ Advisors,Financial Services,778756,"Investment analytics, portfolio optimization  ",HNNA,6190000.0,4771000.0,-1419000.0,False
+Omega Geração,Energy ,714893,"Equipment monitoring, predictive maintenance",AOSL,453163000.0,12364000.0,-440799000.0,False
+Merraine Group,Consulting ,406050,"Data analytics, process optimization",AAL,127000000.0,822000000.0,695000000.0,False
+Inspire Investing,Financial Services,382477,"Investment analytics, portfolio optimization",INSP,-44881000.0,-21153000.0,23728000.0,False
+Memory.NET,Technology  ,607812,"Data analytics, predictive analytics",GNL,12023000.0,-211910000.0,-223933000.0,False
+Axiom Path,Consulting,564351,"Data analytics, process optimization  ",BPTH,-13868000.0,-16078000.0,-2210000.0,False
+DLP Real Estate Capital,Real Estate  ,886507,"Property valuation, investment optimization",ACRE,29785000.0,-38867000.0,-68652000.0,False
+Luxury Living Chicago Realty,Real Estate,777370,"Property valuation, investment optimization",ABR,325783000.0,371434000.0,45651000.0,False
+The DVI Group,Financial Services,562252,"Investment analytics, portfolio optimization  ",AAL,127000000.0,822000000.0,695000000.0,False
+Plataforma 10,Consulting  ,845398,"Data analytics, process optimization",AVD,27404000.0,7519000.0,-19885000.0,False
+Nyla Technology Solutions,Technology  ,214173,"Process automation, predictive analytics",ASX,61501545000.0,,,False
+Washington Capital Partners,Financial Services  ,305841,"Investment analytics, portfolio optimization",AM,326242000.0,,,False
+Climb Credit,Financial Services,229599,"Credit risk analysis, loan optimization",ACP,-59724956.0,30270008.0,89994964.0,False
+Snap,Technology  ,607153,"Image recognition, predictive analytics",SNA,911700000.0,1011100000.0,99400000.0,False
+Fundation (Linear Financial Technologies)***,Financial Services  ,324290,"Loan underwriting, fraud detection ",A,1254000000.0,1240000000.0,-14000000.0,False
+MatchBox Consulting Group,Consulting  ,926786,"Data analytics, process optimization",ALG,101928000.0,136161000.0,34233000.0,False
+ALTA SISTEMAS,Technology  ,422955,"Process automation, predictive analytics",AMR,1448545000.0,721956000.0,-726589000.0,False
+Shopify,Ecommerce Tech  ,507862,"Recommendation engine, inventory optimization",SHOP,-3460000000.0,132000000.0,3592000000.0,True
+Synergy Science,Healthcare,166685,"Drug discovery acceleration, precision medicine",BST,-654770313.0,290145231.0,944915544.0,False
+AgAmerica Lending,Financial Services  ,317597,"Loan underwriting automation, fraud detection",OCSL,29223000.0,117331000.0,88108000.0,False
+Digital Hyve,Advertising,247203,"Ad targeting, campaign optimization  ",APPS,35546000.0,16673000.0,-18873000.0,False
+Knesko Skin,Healthcare  ,700696,"Product development, marketing optimization",NUS,104778000.0,8595000.0,-96183000.0,True
+MongoDB,Technology  ,512538,"Data infrastructure optimization, predictive analytics",MDB,-306866000.0,-345398000.0,-38532000.0,False
+eAssist Dental Solutions,Healthcare Tech,303161,Appointment scheduling optimization,BFAM,80641000.0,74223000.0,-6418000.0,False
+Tesla,Automotive  ,634996,"Predictive maintenance, autonomous driving",TSLA,12583000000.0,14999000000.0,2416000000.0,False
+DocuSign,Technology,3109412,"Document workflow automation, predictive analytics",DOCU,-69976000.0,-97454000.0,-27478000.0,False
+American Hometown Media,Advertising  ,253002,"Ad targeting, campaign optimization",ABEV,14457900000.0,14501900000.0,44000000.0,False
+Compliancy Group,Consulting  ,998023,"Compliance automation, predictive analytics",AAL,127000000.0,822000000.0,695000000.0,False
+MatterHackers,Manufacturing  ,109622,"Demand forecasting, predictive maintenance",RH,688546000.0,528642000.0,-159904000.0,False
+Surgically Clean Air,Manufacturing,880007,"Quality control automation, predictive maintenance  ",AIRT,10928000.0,-12295000.0,-23223000.0,False
+MAS DISEÑO Y MARKETING,Advertising,606772,"Ad targeting, campaign optimization  ",AVAL,2482885000000.0,739003000000.0,-1743882000000.0,False
+A.Life Group,Healthcare  ,481385,"Patient care optimization, precision medicine  ",AAL,127000000.0,822000000.0,695000000.0,False
+OptimizeRx**,Healthcare Tech  ,277166,"Pharma marketing optimization, analytics",OPRX,-11438440.0,-17566000.0,-6127560.0,True
+Empire Flippers,Financial Services,558385,"Business valuation, investment analytics  ",ESBA,63455000.0,84339000.0,20884000.0,False
+GLE,Consulting  ,966603,"Data analytics, process optimization",EGBN,140930000.0,100534000.0,-40396000.0,False
+CS-1 Transportation,Logistics,928953,"Fleet routing optimization, demand forecasting",ABEV,14457900000.0,14501900000.0,44000000.0,False
+CareDx,Healthcare,694555,"Diagnostics optimization, precision medicine",CDNA,-76613000.0,-190284000.0,-113671000.0,False
+Pure Storage,Technology,9094052,"Storage optimization, predictive analytics",PSTG,-143259000.0,73071000.0,216330000.0,False
+MASSIE R&D Tax Credits,Financial Services,775717,"Tax credit optimization, process automation  ",ETB,-60836031.0,65348120.0,126184151.0,False
+Fab Glass and Mirror,Manufacturing  ,556142,"Demand forecasting, predictive maintenance",AIV,75726000.0,-166196000.0,-241922000.0,False
+Oasys International,Technology  ,927472,"Executive search optimization, predictive analytics",AIG,10227000000.0,3643000000.0,-6584000000.0,False
+Red Oak Compliance Solutions,Consulting,295910,Regulatory compliance automation,BR,539100000.0,630600000.0,91500000.0,False
+Explorer Research,Consulting  ,528853,"Data analytics, predictive analytics",ACTG,-125065000.0,67060000.0,192125000.0,False
+FE International,Financial Services  ,689526,"Business valuation, investment analytics",AIG,10227000000.0,3643000000.0,-6584000000.0,False
+Buhler Commercial,Construction  ,868830,"Project planning, predictive analytics",ACRE,29785000.0,-38867000.0,-68652000.0,False
+P3 Pacific Packaging Products*,Manufacturing  ,212288,"Predictive maintenance, quality control automation",APWC,3874000.0,3867000.0,-7000.0,False
+Ziggi's Coffee,Restaurants  ,985307,"Demand forecasting, customer analytics",ABEV,14457900000.0,14501900000.0,44000000.0,True
+JA Saúde Animal,Healthcare  ,838529,Veterinary diagnostics optimization  ,ELAN,-78000000.0,-1231000000.0,-1153000000.0,False
+CIVE®,Construction,309529,"Project planning, predictive analytics",CVEO,3997000.0,30157000.0,26160000.0,False
+DB1 Group,Consulting,783729,"Data analytics, process optimization  ",AAL,127000000.0,822000000.0,695000000.0,False
+Boost Payment Solutions,Financial Services  ,715260,"Fraud detection, transaction analytics",BFAM,80641000.0,74223000.0,-6418000.0,False
+Pluribus Networks,Technology,7689135,"Network optimization, predictive analytics",GILT,-5928000.0,23504000.0,29432000.0,False
+MercadoLibre,Ecommerce,331817,"Recommendation engine, inventory optimization",MELI,482000000.0,987000000.0,505000000.0,True
+Shutter and Sound Films,Media Production,552072,"Content recommendation, optimization",AIV,75726000.0,-166196000.0,-241922000.0,True
+Wayfair,Ecommerce  ,126868,"Recommendation engine, inventory optimization",W,-1331000000.0,-738000000.0,593000000.0,True
+Sierra Nevada Hamburguesas y Malteadas,Restaurants  ,437085,"Demand forecasting, customer analytics",AVAL,2482885000000.0,739003000000.0,-1743882000000.0,True
+Equium Group,Consulting,926965,"Data analytics, process optimization  ",AAL,127000000.0,822000000.0,695000000.0,False
+RTI,Technology,5252183,"Connectivity optimization, predictive analytics  ",BXP,848947000.0,190215000.0,-658732000.0,False
+Zenius Corporation,Education Tech,134341,"Content recommendation, student evaluation  ",AAME,1525000.0,,,True
+Gunderson Direct,Advertising  ,648440,"Ad targeting, campaign optimization",ISDR,1934000.0,766000.0,-1168000.0,False
+Daitan Group,Technology,1443380,"Process automation, predictive analytics",AAL,127000000.0,822000000.0,695000000.0,False
+VELOX Media,Advertising  ,930182,"Ad targeting, campaign optimization ",BATRA,-34172000.0,-125294000.0,-91122000.0,False
+BrD Brasil Distressed,Financial Services,830010,"Investment analytics, portfolio optimization",BSBR,14287093000.0,9449313000.0,-4837780000.0,False
+ServiceNow,Technology  ,420351,"IT process automation, predictive analytics",NOW,325000000.0,1731000000.0,1406000000.0,False
+Nutanix,Technology  ,263413,"Infrastructure optimization, predictive analytics",NTNX,-798946000.0,-254560000.0,544386000.0,False
+M.I.T. Consulting,Consulting,690896,"Data analytics, process optimization",AAP,464402000.0,29735000.0,-434667000.0,False
+TDK Technologies,Technology  ,810615,"Process automation, predictive analytics",A,1254000000.0,1240000000.0,-14000000.0,False
+Denny Cherry & Associates Consulting,Consulting,548474,"Data analytics, predictive analytics",DENN,74712000.0,19945000.0,-54767000.0,False
+PPT Consulting,Consulting,269073,"Data analytics, process optimization",HURN,75552000.0,62479000.0,-13073000.0,False
+Yext,Advertising Tech,109336,"Ad targeting, business profile optimization  ",YEXT,-93259000.0,-65938000.0,27321000.0,False
+Canada Goose Holdings,Apparel  ,332249,"Demand forecasting, inventory optimization",GOOS,94600000.0,72700000.0,-21900000.0,False
+RingCentral,Technology,6906700,"Call routing optimization, predictive analytics",RNG,-879166000.0,-165240000.0,713926000.0,False
+Clear Touch,Technology,4959864,Education content optimization ,CCO,-96604000.0,-310922000.0,-214318000.0,False
+Domo,Technology,2619464,"Data analytics, predictive analytics  ",DOMO,-102111000.0,-105551000.0,-3440000.0,False
+AMERICA ENERGIA SA,Energy  ,211638,"Equipment monitoring, predictive maintenance",ACIU,-70753000.0,-54233000.0,16520000.0,False
+Netflix,Media  ,253175,"Content recommendation, customer analytics",NFLX,4491924000.0,5407990000.0,916066000.0,True
+Moove It,Technology,3509313,"Process automation, predictive analytics  ",ITP,-16571308.0,-9946035.0,6625273.0,False
+Fulcrum Digital,Advertising  ,968108,"Ad targeting, campaign optimization",DLR,377684000.0,948838000.0,571154000.0,False
+Health Company,Healthcare,339388,"Diagnostics optimization, precision medicine  ",ACHC,273139000.0,-21667000.0,-294806000.0,False
+Etsy,Ecommerce  ,613549,"Recommendation engine, inventory optimization",ETSY,-694288000.0,307568000.0,1001856000.0,True
+SMART,Consulting  ,536668,"Data analytics, process optimization",CUBE,291263000.0,410757000.0,119494000.0,False
+D2C Media,Advertising  ,271614,"Ad targeting, campaign optimization",BATRA,-34172000.0,-125294000.0,-91122000.0,False
+Atlantic Petroleum & Mineral Resources,Energy,887708,"Exploration optimization, predictive maintenance",AMR,1448545000.0,721956000.0,-726589000.0,False
+Vetsource,Healthcare Tech,794951,"Supply chain optimization, precision medicine",ES,1404875000.0,-442240000.0,-1847115000.0,False
+AMC Bridge,Consulting  ,389080,"Data analytics, process optimization",AMC,-973600000.0,-396600000.0,577000000.0,False
+Huss Brewing Company,Food and Beverage,210528,"Demand forecasting, supply chain optimization",ADM,4340000000.0,3483000000.0,-857000000.0,False
+Bright Power,Energy  ,894048,Building energy optimization,AEP,2307200000.0,2208100000.0,-99100000.0,False
+vTech Solution,Technology  ,185057,"Process automation, predictive analytics",CTSH,2290000000.0,2126000000.0,-164000000.0,False
+Tundra Technical Solutions,Consulting,172816,"Data analytics, process optimization",BR,539100000.0,630600000.0,91500000.0,False
+CCM Industria e Comercio de Produtos Descartaveis,Manufacturing,626113,"Predictive maintenance, quality control automation",BCH,1445799000000.0,1374026000000.0,-71773000000.0,False
+Aligned Technology Solutions,Technology  ,708396,"Process automation, predictive analytics",ASX,61501545000.0,,,False
+Universal Display Corporation,Technology,1117067,"Process optimization, predictive maintenance",OLED,210061000.0,203011000.0,-7050000.0,False
+The Marquee Group,Events,494580,"Vendor matching, demand forecasting ",AAL,127000000.0,822000000.0,695000000.0,False
+Synergy Settlement Services,Real Estate,845646,"Transaction automation, analytics",CCM,-489661000.0,-297658000.0,192003000.0,False
+Rev.io,Technology  ,635987,"Revenue automation, predictive analytics",REVG,15200000.0,45300000.0,30100000.0,False
+Abby's Catering,Food Services  ,628710,"Demand forecasting, supply chain optimization",ABEV,14457900000.0,14501900000.0,44000000.0,False
+York Property Services,Real Estate,671445,"Property valuation, investment optimization",AMS,1328000.0,610000.0,-718000.0,False
+Grupo Roncador,Energy  ,229023,"Equipment monitoring, predictive maintenance",ASR,9986548000.0,10203713000.0,217165000.0,False
+Cogent Analytics,Consulting  ,619915,"Data analytics, predictive analytics",CCOI,5146000.0,1273441000.0,1268295000.0,False
+Supernus Pharmaceuticals,Healthcare  ,205199,"Drug discovery, clinical trial optimization",SUPN,60711000.0,1316000.0,-59395000.0,False
+Harmonic Machine,Manufacturing,193301,"Predictive maintenance, quality control automation",CVR,2867629.0,-4401584.0,-7269213.0,False
+I.T. Works Recruitment,Staffing  ,183441,Candidate matching and assessment,AIRT,10928000.0,-12295000.0,-23223000.0,False
+Eco Lips,Manufacturing,522657,"Predictive maintenance, supply chain optimization",RETO,-14629055.0,-15641735.0,-1012680.0,False
+Fors Marsh Group,Consulting  ,912752,"Risk modeling, predictive analytics",AAL,127000000.0,822000000.0,695000000.0,False
+Million Dollar Baby Co.,Manufacturing  ,167762,"Predictive maintenance, supply chain optimization",ASX,61501545000.0,,,False
+The Agency,Consulting  ,621911,"Data analytics, process optimization",AES,-546000000.0,249000000.0,795000000.0,False
+Very,Ecommerce,171849,"Recommendation engine, inventory optimization",AVY,757100000.0,503000000.0,-254100000.0,True
+24 Hour Home Care,Healthcare,148060,Care coordination optimization,EPC,99500000.0,114700000.0,15200000.0,False
