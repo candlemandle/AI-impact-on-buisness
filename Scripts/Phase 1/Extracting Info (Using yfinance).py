@@ -32,5 +32,5 @@ for name, ticker in companies.items():
     })
 
 df = pd.DataFrame(results)
-df.to_csv('profits_2022_2024.csv', index=False)
-print(df)
+df.to_csv('../../Data/Phase 1/profits_2022_2024.csv', index=False)
+print("✅ Profits extracted and saved.")

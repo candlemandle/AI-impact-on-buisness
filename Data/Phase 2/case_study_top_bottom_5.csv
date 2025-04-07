@@ -1,0 +1,11 @@
+Company Name,Sector,Profit Change,Customer Focused,AI Benefits
+StanCorp Financial Group Inc,Insurance,478940000000.0,False,"Risk modeling, claims automation"
+Johnson & Johnson,Healthcare,17212000000.0,False,"Drug discovery, precision medicine"
+Johnson Controls Inc.,Manufacturing,17212000000.0,False,"Predictive maintenance, building automation"
+J.P. Morgan Chase & Co.,Banking,11876000000.0,False,"Fraud detection, investment analytics"
+Comcast Corp.,Telecommunications,10018000000.0,True,Customer analytics and network optimization
+Sierra Nevada Hamburguesas y Malteadas,Restaurants  ,-1743882000000.0,True,"Demand forecasting, customer analytics"
+MAS DISEÑO Y MARKETING,Advertising,-1743882000000.0,False,"Ad targeting, campaign optimization  "
+CCM Industria e Comercio de Produtos Descartaveis,Manufacturing,-71773000000.0,False,"Predictive maintenance, quality control automation"
+Pfizer Inc,Healthcare,-29253000000.0,False,"Drug discovery, precision medicine"
+ExxonMobil Corporation,Oil and Gas ,-19730000000.0,False,Exploration optimization and predictive maintenance

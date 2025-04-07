@@ -1,9 +1,9 @@
 import pandas as pd
 from fuzzywuzzy import process
 
-input_path = '/Users/c4ndlemandle/Downloads/all_companies.txt'
-ticker_data_path = '/Users/c4ndlemandle/Downloads/companies.csv'
-output_path = '/Users/c4ndlemandle/Downloads/company_tickers.csv'
+input_path = '../../Data/Phase 1/all_companies.txt'
+ticker_data_path = '../../Data/Phase 1/companies.csv'
+output_path = '../../Data/Phase 1/company_tickers.csv'
 
 ticker_df = pd.read_csv(ticker_data_path)
 
@@ -26,11 +26,9 @@ for company in company_names:
     if match:
         ticker = ticker_df.loc[ticker_df['company name'] == match, 'ticker'].values[0]
         results.append({'Company Name': company, 'Matched Name': match, 'Ticker': ticker, 'Score': score})
-        print(f"✅ Matched: {company} → {match} ({ticker}) [Score: {score}]")
     else:
         results.append({'Company Name': company, 'Matched Name': None, 'Ticker': 'NOT FOUND', 'Score': 0})
-        print(f"❌ No match found for: {company}")
 
 results_df = pd.DataFrame(results)
 results_df.to_csv(output_path, index=False)
-print(f"\n✅ Matching complete! Results saved to: {output_path}")
+print("✅ Tickers matched and saved.")
