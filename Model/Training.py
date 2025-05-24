@@ -88,10 +88,32 @@ metrics_txt = (
 with open('../outputs/metrics.txt', 'w') as f:
     f.write(metrics_txt)
 
-# ─── Plot: Actual vs Predicted (line+marker, scaled to Billions) ───────────────
-# Scale values to billions for readability
+# ─── Plot #1: Zoomed‐in Scatter ─────────────
+# Scale to billions
 yr_b = yr_test.values / 1e9
-yp_b = y_pred      / 1e9
+yp_b = y_pred           / 1e9
+
+# Compute 1st/99th percentiles to zoom
+all_vals = np.concatenate([yr_b, yp_b])
+ymin, ymax = np.percentile(all_vals, [1, 99])
+
+plt.figure(figsize=(8, 5))
+plt.scatter(yr_b, yp_b, alpha=0.7, edgecolor='k')
+plt.plot([ymin, ymax], [ymin, ymax], 'r--', linewidth=1)  # 45° line
+plt.ylim(ymin, ymax)
+plt.xlim(ymin, ymax)
+plt.xlabel("Actual Profit Change (Billion USD)")
+plt.ylabel("Predicted Profit Change (Billion USD)")
+plt.title("Zoomed: Actual vs. Predicted Profit Change")
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.tight_layout()
+plt.savefig('../outputs/actual_vs_pred_zoomed_scatter.png')
+plt.close()
+
+# ─── Plot #2 (version 10) FIXED: Filtered Scatter with Optional Lines ────────────────────────
+# Scale to billions
+yr_b = yr_test.values / 1e9
+yp_b = y_pred           / 1e9
 
 # Build results DataFrame
 results = pd.DataFrame({
@@ -99,29 +121,59 @@ results = pd.DataFrame({
     'Predicted': yp_b
 }).reset_index(drop=True)
 
-# Line chart with markers
+# Define zoom window
+low, high = np.percentile(np.concatenate([yr_b, yp_b]), [1, 99])
+
+# Filter to the normal range
+mask = (results['Actual'] >= low) & (results['Actual'] <= high) & \
+       (results['Predicted'] >= low) & (results['Predicted'] <= high)
+zoomed = results[mask].reset_index(drop=True)
+
 plt.figure(figsize=(8, 5))
-plt.plot(results.index + 1, results['Actual'],    marker='o', label='Actual')
-plt.plot(results.index + 1, results['Predicted'], marker='o', label='Predicted')
+# Scatter only (no vertical line artefacts)
+plt.scatter(zoomed.index+1, zoomed['Actual'],
+            marker='o', label='Actual', alpha=0.7)
+plt.scatter(zoomed.index+1, zoomed['Predicted'],
+            marker='o', label='Predicted', alpha=0.7)
+
+plt.plot(zoomed.index+1, zoomed['Actual'],    linestyle='-', linewidth=0.5, alpha=0.3)
+plt.plot(zoomed.index+1, zoomed['Predicted'], linestyle='-', linewidth=0.5, alpha=0.3)
+
+plt.xlim(zoomed.index.min(), zoomed.index.max())
+plt.ylim(low, high)
 plt.xlabel('Test Sample #')
 plt.ylabel('Profit Change (Billion USD)')
-plt.title('Actual vs. Predicted Profit Change')
+plt.title('Zoomed: Actual vs Predicted (Filtered Scatter)')
 plt.legend()
 plt.grid(True, linestyle='--', alpha=0.5)
 plt.tight_layout()
-plt.savefig('../outputs/line_actual_vs_pred.png')
+plt.savefig('../outputs/line_actual_vs_pred_zoomed_fixed.png')
 plt.show()
 plt.close()
 
-# ─── Plot: Residuals (scaled) ──────────────────────────────────────────────────
+
+# ─── Plot #3: Filtered Residuals Histogram ────────────────────────────────────
 res_b = (yr_test - y_pred) / 1e9
 
+low, high = np.percentile(res_b, [1, 99])
+
+res_filtered = res_b[(res_b >= low) & (res_b <= high)]
+
 plt.figure(figsize=(8, 4))
-plt.hist(res_b, bins=20, edgecolor='k', alpha=0.7)
+plt.hist(
+    res_filtered,
+    bins=20,
+    edgecolor='k',
+    alpha=0.7,
+    range=(low, high)            # ensure bins only cover the filtered range
+)
 plt.xlabel("Residual (Actual − Predicted) (Billion USD)")
-plt.title("Residual Distribution")
+plt.title("Filtered Residual Distribution (1st–99th percentile)")
 plt.grid(axis='y', linestyle='--', alpha=0.5)
 plt.tight_layout()
-plt.savefig('../outputs/residuals_scaled.png')
+plt.savefig('../outputs/residuals_filtered.png')
 plt.show()
 plt.close()
+
+
+# im so tired of this bs
