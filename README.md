@@ -1,32 +1,98 @@
-# AI Impact on Business
+# AI Impact on Business: Profit-Uplift Classifier
 
-This project investigates how artificial intelligence (AI) adoption affects company profitability using real-world financial data and automation.
+## 🚀 Project Overview
+I built a model to predict whether a company will see a profit boost after adopting AI. Using financials, sector info, and a “customer-focused” flag, I trained an XGBoost classifier and regressor to answer two questions:
+1. **Classification:** Will profit go up or not?  
+2. **Regression:** By roughly how much (in USD)?  
 
-## 📊 Project Goals
+This helps decision-makers flag which firms are ripe for AI investment, and by how much they might gain.
 
-- Analyze the relationship between AI implementation and business performance
-- Compare company profits from 2022 to 2024
-- Visualize how AI influences profit growth or decline across sectors
-- Provide insights based on real financial indicators
+---
 
-## 🛠 Technologies Used
+## 📊 Data Description
+- **Source:** Cleaned CSV from Phase 2 (`final_dataset_phase2.csv`)  
+- **Records:** ~ 5 000 companies with no missing `Profit Change`  
+- **Key columns:**
+  - `Profit 2022`, `Profit 2024` (numeric)  
+  - `Sector` (categorical, encoded to `Sector_enc`)  
+  - `Customer_Focused` (0/1)  
+  - `Profit Change` = 2024−2022, our regression target  
+  - `Target` = 1 if `Profit Change`>0, else 0 (classification label)  
 
-- **Python**
-- `pandas`, `yfinance`, `matplotlib`, `seaborn`
-- Fuzzy matching with `fuzzywuzzy`
-- Real-world datasets from Kaggle & Yahoo Finance
+---
 
-## 📁 Key Files
+## 🔍 Exploratory Analysis
+- **Profit distributions:** Right-skewed; outliers trimmed/flagged.  
+- **Sector vs. Profit Change:** Tech & Healthcare tended to see bigger gains.  
+- **Customer-Focus:** Companies with customer-facing AI generally had higher profit upticks.  
+- **Correlation heatmap:** Removed collinear pairs (e.g. raw 2022 vs. 2024 profits).
 
-- `final_dataset.csv` – Enriched dataset with tickers + profits
-- `final_dataset_cleaned.csv` – Cleaned & ready for analysis
-- `*.py` scripts – All steps from extraction to visualization
+---
 
-## 🧠 Highlights
+## 🛠 Feature Engineering
+- **Sector encoding:** LabelEncoder → `Sector_enc`  
+- **Binary target:** `Target = (Profit Change > 0)`  
+- **Clean-up:** Dropped any rows with NaN or infinite `Profit Change`
 
-- Auto-fuzzy ticker matching for 1,400+ companies
-- Financial data collection using a checkpoint system (500+ companies)
-- Visualizations that reveal AI-driven trends in profitability
+---
 
+## 🤖 Modeling Pipeline
+
+1. **Train/Test Split**  
+   - 80% train / 20% test  
+2. **Classifier** (XGBoost)  
+   - Grid search over `n_estimators` & `max_depth`  
+   - Metrics: **Accuracy**, **ROC AUC**  
+   - Saved as `Model/xgb_model.joblib`  
+3. **Regressor** (XGBoost Regressor)  
+   - Predicts `Profit Change` directly  
+   - Metrics: **RMSE**, **MAE**, **MAPE**  
+4. **Outputs** written to `outputs/`:  
+   - `metrics.txt` (all five numbers)  
+   - `line_actual_vs_pred_zoomed_fixed.png`  
+   - `actual_vs_pred_zoomed_scatter.png`  
+   - `residuals_filtered.png`  
+
+---
+
+## ⚡ Usage
+
+1. **Install dependencies**  
+   ```bash
+   pip install -r requirements.txt
+````
+
+2. **Train & evaluate**
+
+   ```bash
+   python Model/Training.py
+   ```
+
+   → Check `outputs/` for metrics & charts.
+3. **Predict on new data**
+
+   * Prepare `Data/new_companies.csv` with headers:
+
+     ```
+     Company Name,Profit 2022,Profit 2024,Sector,Customer_Focused
+     ```
+   * Run:
+
+     ```bash
+     python Model/Prediction.py
+     ```
+
+   → `outputs/predictions.csv` will list each company’s 0/1 “WillBenefit.”
+
+---
+````
+🤔 Future Work
+
+* Add more features (market share, efficiency).
+* Try other algorithms (LightGBM, CatBoost).
+* Deploy as a small API (Flask or FastAPI).
+* Build an auto-retraining pipeline for live data.
+
+---
 
 

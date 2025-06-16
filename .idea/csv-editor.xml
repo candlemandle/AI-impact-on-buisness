@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data/Phase 2/case_study_top_bottom_5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data/Phase 2/final_dataset_phase2.csv">
           <value>
             <Attribute>
