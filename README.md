@@ -60,7 +60,7 @@ This helps decision-makers flag which firms are ripe for AI investment, and by h
 1. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
-````
+
 
 2. **Train & evaluate**
 
